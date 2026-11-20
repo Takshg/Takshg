@@ -3,13 +3,7 @@
 </p>
 
 <!-- CAPTION:START -->
-<<<<<<< HEAD
-
-<sub>The window shows the weather in Toronto right now (clear skies). The main monitor scrolls my latest commits, the second one is always training something, and the shelf holds a book for each language I write.</sub>
-
-=======
 <sub>The window shows the weather in Toronto right now (clear skies, 10°C). The main monitor scrolls my latest commits, the second one is always training something, and the shelf holds a book for each language I write.</sub>
->>>>>>> a46ee9d96a8e8acbee7d9116778e03598942030e
 <!-- CAPTION:END -->
 
 [LinkedIn](https://www.linkedin.com/in/taksh-girdhar-0a7552260/) · [Email](mailto:takshgirdhar@email.com) · [Website](https://asktaksh.notion.site/ds-portfolio-home)
